@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed6f241f-e151-45be-a846-f5c0106b4994" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/intermediates/intermediate/src/objects/PowerBoxTFF.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediates/intermediate/src/eventfunctions/executeKeyAction.js" beforeDir="false" afterPath="$PROJECT_DIR$/intermediates/intermediate/src/eventfunctions/executeKeyAction.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediates/intermediate/src/eventfunctions/executeRaycast.js" beforeDir="false" afterPath="$PROJECT_DIR$/intermediates/intermediate/src/eventfunctions/executeRaycast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediates/intermediate/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/intermediates/intermediate/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediates/intermediate/src/objects/BigBlades.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediates/intermediate/src/objects/BigBladesSphere.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediates/intermediate/src/objects/PowerBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/intermediates/intermediate/src/objects/PowerBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediates/intermediate/src/objects/SmallBlades.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediates/intermediate/src/objects/SmallBladesSphere.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediates/intermediate/src/objects/Turbine.js" beforeDir="false" afterPath="$PROJECT_DIR$/intermediates/intermediate/src/objects/Turbine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intermediates/intermediate/src/objects/TurbineFromFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/intermediates/intermediate/src/objects/TurbineFromFile.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d10e5fe4-ec92-4350-ab03-f859740ff95c" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L0But3a6hzfihKnNDFqV3JcLP2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/USer/Documents/Project_turbine/intermediates/intermediate/index.html",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\USer\\AppData\\Local\\JetBrains\\Toolbox\\apps\\WebStorm\\ch-0\\223.8617.44\\plugins\\javascript-impl\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USer\Documents\Project_turbine\intermediates\intermediate\src\objects" />
+      <recent name="C:\Users\USer\Documents\Project_turbine_backup2\intermediates\intermediate\src\objects" />
+      <recent name="C:\Users\USer\Documents\Project_turbine_backup2\intermediates\intermediate\src\models" />
+      <recent name="C:\Users\USer\Documents\Project_turbine_backup2\intermediates\intermediate\src\images" />
+      <recent name="C:\Users\USer\Desktop\Project_turbine\intermediates\intermediate\src\objects" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USer\Documents\Project_turbine_backup2\lib\cannon-es-debugger-1.0.0\src" />
+      <recent name="C:\Users\USer\Documents\Project_turbine_backup2\intermediates\intermediate\src\models" />
+      <recent name="C:\Users\USer\Documents\Project_turbine_backup2\intermediates\intermediate\src\objects" />
+      <recent name="C:\Users\USer\Documents\Project_turbine_backup2\intermediates\intermediate\src\images" />
+      <recent name="C:\Users\USer\Documents\Project_turbine_backup2\intermediates\intermediate\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Turbine" type="JavascriptDebugType" uri="http://localhost:63342/Project_turbine/intermediates/intermediate/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" uri="http://localhost:63342/Project_turbine/intermediates/intermediate/intermediate_1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed6f241f-e151-45be-a846-f5c0106b4994" name="Default Changelist" comment="" />
+      <created>1674998345892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674998345892</updated>
+      <workItem from="1674998346941" duration="1659000" />
+      <workItem from="1675000048931" duration="14363000" />
+      <workItem from="1675078093529" duration="9487000" />
+      <workItem from="1675092472570" duration="16000" />
+      <workItem from="1675092578704" duration="9434000" />
+      <workItem from="1675102479386" duration="222000" />
+      <workItem from="1675115835976" duration="66000" />
+      <workItem from="1675160076326" duration="23671000" />
+      <workItem from="1675247054303" duration="16165000" />
+      <workItem from="1675275210166" duration="1000" />
+      <workItem from="1675290675747" duration="70000" />
+      <workItem from="1675292410193" duration="4757000" />
+      <workItem from="1675333156434" duration="10382000" />
+      <workItem from="1675349163728" duration="6921000" />
+      <workItem from="1675360572381" duration="82000" />
+      <workItem from="1675360910904" duration="4207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

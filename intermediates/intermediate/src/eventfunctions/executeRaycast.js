@@ -1,0 +1,24 @@
+import * as THREE from '../../../../lib/three.js-r145/build/three.module.js';
+
+window.raycaster = new THREE.Raycaster();
+export function executeRaycast(event) {
+    const mousePosition = new THREE.Vector2();
+    mousePosition.x = 2 * (event.clientX / window.innerWidth) - 1;
+    mousePosition.y = -2 * (event.clientY / window.innerHeight) + 1;
+    window.addEventListener('click', onclick, true);
+    window.raycaster.setFromCamera(mousePosition, window.camera);
+    let intersects = window.raycaster.intersectObject(window.scene, true);
+    if (intersects.length > 0) {
+        let firstHit = intersects[0].object;
+        if (firstHit.name === 'powerOn') {
+            window.powerOnTurbine = true;
+        } else if (firstHit.name === 'powerOff') {
+            window.powerOnTurbine = false;
+        };
+        if (firstHit.name === 'powerOntff') {
+            window.action.play();
+        } else if (firstHit.name === 'powerOfftff') {
+            window.action.stop();
+        };
+    }
+}
